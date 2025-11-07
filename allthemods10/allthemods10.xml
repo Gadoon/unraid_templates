@@ -14,6 +14,7 @@
   <ExtraSearchTerms>minecraft allthemods10 atm10</ExtraSearchTerms>
   <TemplateURL>https://raw.githubusercontent.com/W3LFARe/unraid_templates/master/allthemods10/allthemods10.xml</TemplateURL>
   <Icon>https://media.forgecdn.net/avatars/thumbnails/1098/957/256/256/638645426291861588.png</Icon>
+  <ExtraParams>-it</ExtraParams>
 <Config 
     Name="Installed Location" 
     Target="/data" Default="/mnt/user/appdata/allthemods10/" 
